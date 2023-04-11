@@ -28,3 +28,4 @@ Aqui estão 25 recursos de imagens gratuitas para você usar:
 - [morguefile.com](https://morguefile.com/)
 - [rawpixel.com](https://www.rawpixel.com/)
 
+-- provided by GuriGraphics
